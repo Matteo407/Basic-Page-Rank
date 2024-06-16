@@ -1,9 +1,10 @@
 # Sequential and parallel implementation of Page Rank
+# Assignment for a university course
 
 ## Directories
 
 -datagen: contains the file that defines the matrix data structure and the functions used to load the graph informations from the input file (in edgelist format).
-            It also contains an example file downloaded from the site https://snap.stanford.edu/data/index.html
+It also contains an example file downloaded from the site https://snap.stanford.edu/data/index.html
 
 -src: contains the files with the functions that calculate the actual Page Rank algorithm
 
