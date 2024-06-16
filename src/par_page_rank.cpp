@@ -10,6 +10,9 @@
 
 #include "../datagen/par_csc_matrix.cpp"
 
+// ------------------ Page Rank ------------------
+// The Page Rank algorithm is a link analysis algorithm used by Google Search to rank websites in their search engine results.
+
 
 namespace parallel {
     // ------------------ Page Rank ------------------
